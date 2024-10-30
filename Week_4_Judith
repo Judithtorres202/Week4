@@ -6,3 +6,23 @@
     <meta name="viewport" content="width=devide-width, initial-scale=1">
     <link rel="stylesheet" href="css/style.css">
   </head>
+  <body>
+    <header>
+      <h1> My CSS </h1>
+    </header>
+  <style>
+    .box-model-example {
+      background-color: blue; width: 300px;
+      border: 20px black; padding: 50px;
+      margin: 20px;
+    }
+  </style>
+  </head>
+<body>
+section h1{
+      font-size: 1.5em;
+      font-family: "Merriweather", "Times New Roman"; serif;
+}
+<footer>
+  <p> Judith Torres</p>
+</footer>
